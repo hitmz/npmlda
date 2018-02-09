@@ -9,7 +9,7 @@ Version: 1.0.0
 
 Author: Xin Tian, Colin Wu 
 
-Maintainer: Xin Tian  <tianxtt@gmail.com>
+Maintainer: Xin Tian <tianxtt@gmail.com>
 
 Description: This package contains the datasets and functions used in the book 'Nonparametric Models for Longitudinal Data'.     
 

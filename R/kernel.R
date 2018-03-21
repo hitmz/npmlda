@@ -74,7 +74,7 @@ Kh.Nm  <- function(datavec, Bndwdth) {
 #'  \item Fan, J. and Gijbels, I. Local Polynomial Modeling and Its Applications.
 #'      Chapman & Hall, London, United Kingdom, 1996.
 #'  \item  Wu, C.O. and Tian, X.   Nonparametric Models for Longitudinal Data. Chapman & Hall/CRC. To appear.}}
-NW.WtKernel <- function(Xvec, Yvec, X0, Kernel="Ep", Bndwdth,  Wt=1)
+NW.Kernel <- function(Xvec, Yvec, X0, Kernel="Ep", Bndwdth,  Wt=1)
 {
   Xi0 <- Xvec- X0
 
@@ -112,7 +112,7 @@ kernel.fit <- function(Xint , Xvec, Yvec, bw,  Kernel="Ep",  Wt=1)
   for (i in 1:nID)
   {
     X1  <-  Xint[i]
-    Yfit[i]<- NW.WtKernel(Xvec,  Yvec, X0=X1, Kernel, Bndwdth=bw,  Wt)
+    Yfit[i]<- NW.Kernel(Xvec,  Yvec, X0=X1, Kernel, Bndwdth=bw,  Wt)
   }
   Yfit
 }

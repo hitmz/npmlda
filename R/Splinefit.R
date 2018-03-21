@@ -12,7 +12,7 @@
 #' @references{ Wu, C.O. and Tian, X.   Nonparametric Models for Longitudinal Data. Chapman & Hall/CRC.
 #'             To appear.}
 
-Spline.fit <- function(Xint,  Xvec, Yvec , nKnots=2, Degree =3, Wt=1)
+spline.fit <- function(Xint,  Xvec, Yvec , nKnots=2, Degree =3, Wt=1)
 {
   DR<-  range(Xvec)
   Knots<- seq(DR[1], DR[2], length=nKnots+2)[c(-1, -(nKnots+2))]
@@ -50,7 +50,7 @@ CVspline <- function( Xvec, Yvec,  ID,  nKnots, Degree, Wt )
     Ysub <- Yvec[ ID != i ]
     X.IDi <- Xvec[ ID == i ]
     Weighti<- Wt[ ID != i ]
-    Yest[ID == i] <-  Spline.fit(X.IDi, Xsub, Ysub , nKnots, Degree , Weighti)
+    Yest[ID == i] <-  spline.fit(X.IDi, Xsub, Ysub , nKnots, Degree , Weighti)
   }
   sum( Wt*(Yvec- Yest)^2)
 }

@@ -5,7 +5,7 @@ Type: Package
 
 Title: Nonparametric Models for Longitudinal Data
 
-Version: 1.0.0
+Version: 1.2.0
 
 Author: Xin Tian, Colin Wu 
 

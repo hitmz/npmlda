@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1529099079402.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8CF34682",
+    "lastKnownWriteTime" : 1529099082,
+    "last_content_update" : 1529099082083,
+    "path" : "~/1tianx/1R-code/npmlda/man/Kernel3D.Rd",
+    "project_path" : "man/Kernel3D.Rd",
+    "properties" : {
+        "cursorPosition" : "24,1",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}

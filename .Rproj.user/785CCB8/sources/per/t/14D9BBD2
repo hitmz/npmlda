@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1521562916359.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3298416404",
+    "id" : "14D9BBD2",
+    "lastKnownWriteTime" : 1521562846,
+    "last_content_update" : 1521562846,
+    "path" : "~/1tianx/1R-code/npmlda/man/NW.Kernel.Rd",
+    "project_path" : "man/NW.Kernel.Rd",
+    "properties" : {
+        "cursorPosition" : "24,1",
+        "scrollLine" : "9"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}

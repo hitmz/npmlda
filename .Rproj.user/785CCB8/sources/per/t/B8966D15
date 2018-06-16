@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1521088073632.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3921545458",
+    "id" : "B8966D15",
+    "lastKnownWriteTime" : 1520914443,
+    "last_content_update" : 1520914443,
+    "path" : "~/1tianx/1R-code/npmlda/man/kernel.fit.Rd",
+    "project_path" : "man/kernel.fit.Rd",
+    "properties" : {
+        "cursorPosition" : "26,1",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}

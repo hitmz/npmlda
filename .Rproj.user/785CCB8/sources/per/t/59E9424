@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1521562800244.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1529971979",
+    "id" : "59E9424",
+    "lastKnownWriteTime" : 1521563087,
+    "last_content_update" : 1521563087550,
+    "path" : "~/1tianx/1R-code/npmlda/R/Splinefit.R",
+    "project_path" : "R/Splinefit.R",
+    "properties" : {
+        "cursorPosition" : "19,26",
+        "scrollLine" : "1",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

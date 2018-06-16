@@ -23,3 +23,7 @@ Kernel3D.S2(IDls = ID, Y, Time, X, T1, T2, X0, Bndwdth1, Bndwdth2, Bndwdth3)
 \description{
 3-dim Kernel function for longitudinal data to get  Pr(y2(t2)|x(t1))
 }
+\references{
+{ Wu, C.O. and Tian, X.  Nonparametric Models for Longitudinal Data: With Implementation in R. Chapman & Hall/CRC.
+            2018.}
+}

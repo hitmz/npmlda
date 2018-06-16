@@ -18,8 +18,12 @@ Newton2var(Zij, b0, Ub, Indicator, difflmt = 1e-14, MaxIter = 100)
 \item{MaxIter}{maximum no. of interations}
 }
 \value{
-the root of the equation
+The root of the equation
 }
 \description{
 An equation solver with Newton's method with 2 variables
+}
+\references{
+{ Wu, C.O. and Tian, X.  Nonparametric Models for Longitudinal Data: With Implementation in R. Chapman & Hall/CRC.
+            2018.}
 }

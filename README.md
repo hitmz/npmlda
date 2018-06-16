@@ -24,7 +24,4 @@ Book URL: https://www.crcpress.com/Nonparametric-Models-for-Longitudinal-Data-Wi
 Encoding: UTF-8
 
 Imports: 
-  lme4,
-  nlme,
-  splines,
-  survival
+   splines

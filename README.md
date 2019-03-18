@@ -26,9 +26,7 @@ Encoding: UTF-8
 Imports: 
    splines
 
-#To install from CRAN 
-
-#For a recent version from github use:
+#To install from CRAN  or, for a recent version, to install from GitHub:
 
 #install.packages("devtools")
 

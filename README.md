@@ -25,3 +25,11 @@ Encoding: UTF-8
 
 Imports: 
    splines
+
+#To install from CRAN 
+#For a recent version from github use:
+
+#install.packages("devtools")
+#library(devtools)
+#install_github("npmldabook/npmlda")
+#library(npmlda)
